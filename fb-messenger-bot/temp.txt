@@ -1,0 +1,7 @@
+token =
+key = test_token
+
+heroku config:add PAGE_ACCESS_TOKEN=EAAI7dZCA2fkcBAO8efZALItmw06JKM0kxcmzkz8vtZB5iZAwMVjUw3ezw15ZBO3m7ZA0ZAkkfFW9BQlIFiBLKgvzI3W5f7I1R8D90oEvqchfPbRAIANO62AKOSwFmYWJbfkpVYRXQCyvKdm9oUwGZBafCRorGUZAoGxFKerjxDE38ZCQZDZD
+
+heroku config:add VERIFY_TOKEN=test_token
+
